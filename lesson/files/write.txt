@@ -1,0 +1,5 @@
+Welcome to write file test program.Welcome to write file test program.
+ This is next line into write.txt.
+This is quotes 1.
+This is quote 2.
+This is quote 3
